@@ -1,0 +1,11 @@
+GlowApp is a Kotlin-based mobile application designed to provide users with personalized skincare recommendations based on their unique skin types. 
+The app features an interactive quiz that helps determine the user's skin type and provides tailored product suggestions and skincare routines.
+
+The app offers a fun and engaging quiz that asks users a series of questions about their skin's needs and concerns.
+Users earn points based on their responses, which are then used to determine their skin type at the end of the quiz.
+
+After completing the quiz, users receive a detailed analysis of their skin type (e.g., oily, dry, combination, sensitive, etc.).
+The app uses this data to recommend skincare products suited to their skin type and concerns.
+
+GlowApp features a clean, intuitive design that makes navigating through the quiz and product recommendations a seamless experience.
+The app is built with Kotlin for smooth performance and easy maintenance, ensuring a reliable experience across Android devices.
